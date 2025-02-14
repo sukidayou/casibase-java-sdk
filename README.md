@@ -41,7 +41,3 @@ TaskService taskService = new TaskService(config);
 - `getTask(String name)`: Get a single task by task name.
 - `getTasks()`: Get all tasks under the organizationName.
 - `addTask(Task task)/updateTask(Task task)/deleteTask(Task task)`: Write to the database.
-
-## SpringBoot Support
-
-Not available yet
